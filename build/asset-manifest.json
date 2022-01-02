@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/www.aksolutions.ml/Azhar/static/css/main.3c86ddcc.css",
+    "main.js": "/www.aksolutions.ml/Azhar/static/js/main.c5e5b5e7.js",
+    "static/media/company.gif": "/www.aksolutions.ml/Azhar/static/media/company.cfe8460c03be16a49c8b.gif",
+    "static/media/Email Template-2.png": "/www.aksolutions.ml/Azhar/static/media/Email Template-2.e39fb1e376a62dc9ef74.png",
+    "static/media/Email Template-3.png": "/www.aksolutions.ml/Azhar/static/media/Email Template-3.064d477cfb48a03edf42.png",
+    "static/media/Email Template.png": "/www.aksolutions.ml/Azhar/static/media/Email Template.0eeff17e2c4bcf459eaa.png",
+    "static/media/about.gif": "/www.aksolutions.ml/Azhar/static/media/about.295d2286aafdd2930791.gif",
+    "static/media/website.png": "/www.aksolutions.ml/Azhar/static/media/website.311c67652c79d61871fc.png",
+    "index.html": "/www.aksolutions.ml/Azhar/index.html",
+    "main.3c86ddcc.css.map": "/www.aksolutions.ml/Azhar/static/css/main.3c86ddcc.css.map",
+    "main.c5e5b5e7.js.map": "/www.aksolutions.ml/Azhar/static/js/main.c5e5b5e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c86ddcc.css",
+    "static/js/main.c5e5b5e7.js"
+  ]
+}
